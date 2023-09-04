@@ -8,7 +8,15 @@ https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
 
 https://www.kaggle.com/datasets/vivovinco/20212022-football-team-stats
 
+ANALYSIS DONE:
 
+• Shots Analysis
+• Defender Analysis
+• Goals Analysi
+• Attributes Analysis
+• XG and XGA Analysis
+• Aerial Duel Analysis
+• Passes Analysis
 
 Tools Used:
 
