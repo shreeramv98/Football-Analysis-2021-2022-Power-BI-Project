@@ -12,7 +12,7 @@ ANALYSIS DONE:
 
 • Shots Analysis
 • Defender Analysis
-• Goals Analysi
+• Goals Analysis
 • Attributes Analysis
 • XG and XGA Analysis
 • Aerial Duel Analysis
