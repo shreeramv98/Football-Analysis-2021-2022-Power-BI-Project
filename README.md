@@ -1,6 +1,6 @@
-# Football-Analysis-2021-2022-Power-BI-Project
+# Unveiling Football Insights - PowerBI Dashboard Analysis of the 2021-2022 Season
 
-This is Analysis of Fotball Players and Team Stats for the 2021-2022 Season.
+Embarking on a deep dive into the 2021-2022 football (soccer) season, this project involved the development of a comprehensive PowerBI dashboard utilizing datasets sourced from Kaggle. By meticulously analyzing player and team statistics, key insights were extracted across various dimensions including shots, defenders, goals, attributes, xG (expected goals), xGA (expected goals against), aerial duels, and passes. Leveraging advanced PowerBI techniques such as data modeling, KPI indicators, DAX language, and report optimization using DAX studio, this dashboard enabled robust analysis and visualization of football performance metrics. Furthermore, the seamless integration of MySQL database data into PowerBI facilitated efficient data importation, empowering stakeholders to make data-driven decisions and gain actionable insights. Through this project, valuable insights were uncovered, providing a comprehensive understanding of the 2021-2022 football season dynamics.
 
 The Data Set used for this analysis is from Kaggle. The link is provided below,
 
